@@ -1,0 +1,8 @@
+#canvas {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to top right, #ccffff 0%, #0066ff 100%);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
